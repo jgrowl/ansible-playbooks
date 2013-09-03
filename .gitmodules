@@ -1,0 +1,32 @@
+[submodule "gitlab"]
+	path = gitlab
+	url = git@github.com:jgrowl/ansible-playbook-gitlab.git
+	branch = 5-4-stable
+[submodule "auth"]
+	path = auth
+	url = git@github.com:jgrowl/ansible-playbook-auth.git
+	branch = master
+[submodule "jenkins"]
+	path = jenkins
+	url = git@github.com:jgrowl/ansible-playbook-jenkins.git
+	branch = master
+[submodule "redis-from-src"]
+	path = redis-from-src
+	url = git@github.com:jgrowl/ansible-playbook-redis-from-src.git
+	branch = master
+[submodule "auth-client"]
+	path = auth-client
+	url = git@github.com:jgrowl/ansible-playbook-auth-client.git
+	branch = master
+[submodule "nginx"]
+	path = nginx
+	url = git@github.com:jgrowl/ansible-playbook-nginx.git
+	branch = master
+[submodule "nfs-client"]
+	path = nfs-client
+	url = git@github.com:jgrowl/ansible-playbook-nfs-client.git
+	branch = master
+[submodule "ruby-from-src"]
+	path = ruby-from-src
+	url = git@github.com:jgrowl/ansible-playbook-ruby-from-src.git
+	branch = master
