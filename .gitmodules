@@ -30,3 +30,7 @@
 	path = ruby-from-src
 	url = git@github.com:jgrowl/ansible-playbook-ruby-from-src.git
 	branch = master
+[submodule "gitlab_ci"]
+	path = gitlab_ci
+	url = git@github.com:jgrowl/ansible-playbook-gitlab_ci.git
+	branch = master
